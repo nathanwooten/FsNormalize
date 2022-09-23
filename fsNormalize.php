@@ -1,5 +1,7 @@
 <?php
 
+// The Unlicense, PUBLIC DOMAIN
+
 function fsNormalize( $path, $before = '', $after = '', $separator = DIRECTORY_SEPARATOR )
 {
 
